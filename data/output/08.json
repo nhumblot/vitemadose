@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-13T08:46:53.549347+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "08",
+      "nom": "Pharmacie Des 2 Villes",
+      "url": "https://mapharma.net/08000",
+      "location": null,
+      "metadata": {
+        "address": "61 Avenue des Arches 08000 CHARLEVILLE MEZIERES",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "08000-0"
+    },
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination Covid-19 - CH Intercommunal Nord-Ardennes (Charleville-M\u00e9zi\u00e8res, Fumay, Sedan)",
+      "url": "https://partners.doctolib.fr/hopital-public/charleville-mezieres/centre-hospitalier-intercommunal-nord-ardennes-charleville-fumay-sedan",
+      "location": {
+        "longitude": 4.7108896,
+        "latitude": 49.7568325,
+        "city": "Charleville-M\u00e9zi\u00e8res"
+      },
+      "metadata": {
+        "address": "Rue de la Vieille Meuse, 08000 Charleville-M\u00e9zi\u00e8res",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242252[164143]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242252"
+    },
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination COVID - ARS Ardennes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes",
+      "location": {
+        "longitude": 4.8528362,
+        "latitude": 49.7389039,
+        "city": "Vrigne-aux-Bois"
+      },
+      "metadata": {
+        "address": "Avenue Voltaire, 08330 Vrigne-aux-Bois",
+        "phone_number": "+33972760250",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243002[165002]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243002"
+    }
+  ]
+}

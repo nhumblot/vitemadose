@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-13T08:46:53.582241+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "47",
+      "nom": "Pharmacie Agen Sud",
+      "url": "https://mapharma.net/47000",
+      "location": null,
+      "metadata": {
+        "address": "46 Avenue d'Italie 47000 AGEN",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "47000-0"
+    },
+    {
+      "departement": "47",
+      "nom": "Centre Hospitalier N\u00e9rac (Vaccination COVID)",
+      "url": "https://partners.doctolib.fr/hopital-public/nerac/centre-hospitalier-nerac-vaccination-covid",
+      "location": {
+        "longitude": 0.3420583,
+        "latitude": 44.1357255,
+        "city": "N\u00e9rac"
+      },
+      "metadata": {
+        "address": "2 Rue S\u00e9derie, 47600 N\u00e9rac",
+        "phone_number": "+33553697476",
+        "business_hours": {
+          "lundi": "08:30-17:00",
+          "mardi": "08:30-17:00",
+          "mercredi": "08:30-17:00",
+          "jeudi": "08:30-17:00",
+          "vendredi": "08:30-17:00",
+          "samedi": "08:30-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242444[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242444"
+    },
+    {
+      "departement": "47",
+      "nom": "P\u00f4le de Sant\u00e9 du Villeneuvois - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/villeneuve-sur-lot/pole-sante-du-villeneuvois-vaccination-covid-villeneuve-sur-lot",
+      "location": {
+        "longitude": 0.7360715,
+        "latitude": 44.4088659,
+        "city": "Villeneuve-sur-Lot"
+      },
+      "metadata": {
+        "address": "47305 Route de Fumel, 47300 Villeneuve-sur-Lot",
+        "phone_number": "+33553722800",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-17:00",
+          "mardi": "09:00-13:00, 14:00-17:00",
+          "mercredi": "09:00-13:00, 14:00-17:00",
+          "jeudi": "09:00-13:00, 14:00-17:00",
+          "vendredi": "09:00-13:00, 14:00-17:00",
+          "samedi": "09:00-13:00, 14:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242375[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242375"
+    },
+    {
+      "departement": "47",
+      "nom": "Centre de vaccination de la Myre Mory",
+      "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-sur-lot/pole-de-sante-du-villeneuvois-vaccination-covid-19-3b10160b-a824-4b06-8a44-f4c31ab8e388",
+      "location": {
+        "longitude": 0.7360715,
+        "latitude": 44.4088659,
+        "city": "Villeneuve-sur-Lot"
+      },
+      "metadata": {
+        "address": "47305 Route de Fumel, 47300 Villeneuve-sur-Lot",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261964[178187]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261964"
+    },
+    {
+      "departement": "47",
+      "nom": "Centre de vaccination Centre des Congr\u00e8s d'Agen",
+      "url": "https://partners.doctolib.fr/centre-de-sante/agen/centre-de-vaccination-centre-des-congres-d-agen",
+      "location": {
+        "longitude": 0.6172746,
+        "latitude": 44.1819241,
+        "city": "Agen"
+      },
+      "metadata": {
+        "address": "1 Avenue du Midi, 47000 Agen",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "254883[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d254883"
+    },
+    {
+      "departement": "47",
+      "nom": "Centre Hospitalier Agen (Vaccination COVID)",
+      "url": "https://partners.doctolib.fr/hopital-public/agen/centre-hospitalier-agen-vaccination-covid",
+      "location": {
+        "longitude": 0.6367245,
+        "latitude": 44.2193196,
+        "city": "Agen"
+      },
+      "metadata": {
+        "address": "23 Rue Michel Reine, 47000 Agen",
+        "phone_number": "+33553697495",
+        "business_hours": {
+          "lundi": "08:30-17:00",
+          "mardi": "08:30-17:00",
+          "mercredi": "08:30-17:00",
+          "jeudi": "08:30-17:00",
+          "vendredi": "08:30-17:00",
+          "samedi": "08:30-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242440[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242440"
+    },
+    {
+      "departement": "47",
+      "nom": "ESPACE EXPO MARMANDE (CHIC MARMANDE)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/marmande/ch-intercommunal-marmande",
+      "location": {
+        "longitude": 0.143191,
+        "latitude": 44.5085,
+        "city": "Marmande"
+      },
+      "metadata": {
+        "address": "6 Avenue Francois Mitterrand, 47200 Marmande",
+        "phone_number": "+33553203110",
+        "business_hours": {
+          "lundi": "9:00-12:00/13:00-17:00",
+          "mardi": "9:00-12:00/13:00-17:00",
+          "mercredi": "9:00-12:00/13:00-17:00",
+          "jeudi": "9:00-12:00/13:00-17:00",
+          "vendredi": "9:00-12:00/13:00-17:00",
+          "samedi": "9:00-12:00/13:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241548[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "394"
+    },
+    {
+      "departement": "47",
+      "nom": "Clinique Esquirol Saint Hilaire",
+      "url": "https://partners.doctolib.fr/clinique-privee/agen/centre-de-vaccination-covid-clinique-esquirol-saint-hilaire-elsan",
+      "location": {
+        "longitude": 0.629352,
+        "latitude": 44.1858,
+        "city": "Agen"
+      },
+      "metadata": {
+        "address": "1 Rue Docteur et Madame Delmas, 47000 Agen",
+        "phone_number": "+33553699777",
+        "business_hours": {
+          "lundi": "8:30-18:30",
+          "mardi": "8:30-18:30",
+          "mercredi": "8:30-18:30",
+          "jeudi": "8:30-18:30",
+          "vendredi": "8:30-18:30",
+          "samedi": "8:30-18:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242100[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "984"
+    }
+  ]
+}

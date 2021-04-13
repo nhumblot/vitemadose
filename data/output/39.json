@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-13T08:46:53.576723+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "39",
+      "nom": "Pharmacie Lafayette de la Rive Gauche",
+      "url": "https://partners.doctolib.fr/pharmacie/dole/pharmacie-lafayette-de-la-rive-gauche",
+      "location": {
+        "longitude": 5.488428,
+        "latitude": 47.083747,
+        "city": "Dole"
+      },
+      "metadata": {
+        "address": "Rue du G\u00e9n\u00e9ral Bethouart, 39100 Dole",
+        "phone_number": "+33384722047",
+        "business_hours": {
+          "lundi": "08:30-19:00",
+          "mardi": "08:30-19:00",
+          "mercredi": "08:30-19:00",
+          "jeudi": "08:30-19:00",
+          "vendredi": "08:30-19:00",
+          "samedi": "08:30-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "264077[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264077"
+    },
+    {
+      "departement": "39",
+      "nom": "ARS de Bourgogne-Franche-Comt\u00e9 - Jura",
+      "url": "https://partners.doctolib.fr/centre-de-sante/dole/ars-de-bourgogne-franche-comte",
+      "location": {
+        "longitude": 5.9122389,
+        "latitude": 46.747579,
+        "city": "Champagnole"
+      },
+      "metadata": {
+        "address": "Rue de l'\u00c9galit\u00e9, 39300 Champagnole",
+        "phone_number": "+33384868600",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241304[163355]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241304"
+    },
+    {
+      "departement": "39",
+      "nom": "ARS de Bourgogne-Franche-Comt\u00e9 - Orgelet",
+      "url": "https://partners.doctolib.fr/centre-de-sante/orgelet/ars-de-bourgogne-franche-comte-orgelet",
+      "location": {
+        "longitude": 5.6132803,
+        "latitude": 46.5216757,
+        "city": "Orgelet"
+      },
+      "metadata": {
+        "address": "Place du Bourg de Merlia, 39270 Orgelet",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243078[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243078"
+    },
+    {
+      "departement": "39",
+      "nom": "Centre de Chaussin",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chaussin/ars-de-bourgogne-franche-comte-chaussin",
+      "location": {
+        "longitude": 5.40786,
+        "latitude": 46.9675,
+        "city": "Chaussin"
+      },
+      "metadata": {
+        "address": "12 Grande rue, 39120 Chaussin",
+        "phone_number": "+33384868600",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:00-17:00",
+          "mercredi": "09:00-11:40",
+          "jeudi": "13:00-17:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244804[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1384"
+    }
+  ]
+}

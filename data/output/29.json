@@ -1,0 +1,669 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-13T08:46:53.564129+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "29",
+      "nom": "QUIMPER - Maison des associations",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/quimper-29000/quimper/centre-de-vaccination-de-quimper",
+      "location": {
+        "longitude": -4.07775,
+        "latitude": 47.9824,
+        "city": "Quimper"
+      },
+      "metadata": {
+        "address": "1 All\u00e9e Mgr Jean-Ren\u00e9 Calloc'h, 29000 Quimper",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "Ferm\u00e9",
+          "mardi": "10h-12h / 13h30-16h",
+          "mercredi": "10h-12h / 13h30-16h",
+          "jeudi": "Ferm\u00e9",
+          "vendredi": "10h-12h / 13h30-16h",
+          "samedi": "10h-12h / 13h30-16h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T09:45:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 15,
+      "internal_id": null,
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "925"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "29",
+      "nom": "Pharmacie De Lestonan",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-lestonan-ergue-gaberic",
+      "location": {
+        "longitude": -4.0176935,
+        "latitude": 48.0165229,
+        "city": "ergue-gaberic"
+      },
+      "metadata": {
+        "address": "56 AV DE LESTONAN, 29500 ERGUE GABERIC",
+        "phone_number": "+33298595706",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "6187009e"
+    },
+    {
+      "departement": "29",
+      "nom": "Pharmacie La Galerie",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-la-galerie-quimper",
+      "location": {
+        "longitude": -4.094823,
+        "latitude": 47.9747201,
+        "city": "quimper"
+      },
+      "metadata": {
+        "address": "163 RTE DE BENODET, 29000 quimper",
+        "phone_number": "+33298905316",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "a8adb3b4"
+    },
+    {
+      "departement": "29",
+      "nom": "Pharmacie D'Ergue-Armel C.C Casino",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-d'ergue-armel-c.c-casino-quimper",
+      "location": {
+        "longitude": -4.073479499999999,
+        "latitude": 47.9826383,
+        "city": "quimper"
+      },
+      "metadata": {
+        "address": "2 Avenue de Ty Bos, 29000 Quimper",
+        "phone_number": "+33298907810",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "c6dbd33f"
+    },
+    {
+      "departement": "29",
+      "nom": "Pharmacie Les Filets Bleus",
+      "url": "https://mapharma.net/29900",
+      "location": null,
+      "metadata": {
+        "address": "122 avenue de la Gare 29900 CONCARNEAU",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "29900-0"
+    },
+    {
+      "departement": "29",
+      "nom": "Pharmacie Caron",
+      "url": "https://mapharma.net/29260",
+      "location": null,
+      "metadata": {
+        "address": "9 rue des Ecoliers RD 125 29260 PLOUIDER",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "29260-0"
+    },
+    {
+      "departement": "29",
+      "nom": "Dr St\u00e9phane Primault",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/ergue-gaberic/stephane-primault",
+      "location": {
+        "longitude": -4.0525322,
+        "latitude": 47.997672,
+        "city": "Ergu\u00e9-Gab\u00e9ric"
+      },
+      "metadata": {
+        "address": "10 Avenue Per Jakez Helias, 29500 Ergu\u00e9-Gab\u00e9ric",
+        "business_hours": {
+          "lundi": "08:30-12:00, 14:30-18:00",
+          "mardi": "08:30-12:00, 14:30-18:00",
+          "mercredi": "08:30-12:00, 14:30-18:00",
+          "jeudi": "08:30-12:00, 14:30-18:00",
+          "vendredi": "08:30-12:00, 14:30-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "115522[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d115522"
+    },
+    {
+      "departement": "29",
+      "nom": "Centre de vaccination Covid-19 Chateaulin - Crozon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chateaulin/centre-de-vaccination-covid-19-chateaulin-crozon",
+      "location": {
+        "longitude": -4.077418,
+        "latitude": 48.195157,
+        "city": "Chateaulin"
+      },
+      "metadata": {
+        "address": "Roc de Quimill, 29150 Chateaulin",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242649[164629]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242649"
+    },
+    {
+      "departement": "29",
+      "nom": "Centre de vaccination Covid-19 - Complexe sportif de Quimperl\u00e9 - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/quimperle/centre-de-vaccination-covid-19-de-quimperle",
+      "location": {
+        "longitude": -3.5606725,
+        "latitude": 47.8664353,
+        "city": "Quimperl\u00e9"
+      },
+      "metadata": {
+        "address": "Rue de Kerjouanneau, 29300 Quimperl\u00e9",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245024[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245024"
+    },
+    {
+      "departement": "29",
+      "nom": "Centre de vaccination du Pays de Morlaix - Centre de vaccination COVID 19",
+      "url": "https://partners.doctolib.fr/maison-de-sante/morlaix/ch-morlaix-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": -3.7907231,
+        "latitude": 48.5855916,
+        "city": "Garlan"
+      },
+      "metadata": {
+        "address": "Langolvas, 29610 Garlan",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241076[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241076"
+    },
+    {
+      "departement": "29",
+      "nom": "Centre de vaccination Covid-19 - Bigouden",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pont-l-abbe/centre-de-vaccination-covid-19-bigouden",
+      "location": {
+        "longitude": -4.2256159,
+        "latitude": 47.867889,
+        "city": "Pont-l'Abb\u00e9"
+      },
+      "metadata": {
+        "address": "Rue Mstislav Rostropovitch, 29120 Pont-l'Abb\u00e9",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "08:45-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "08:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245869[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245869"
+    },
+    {
+      "departement": "29",
+      "nom": "Centre de Vaccination COVID Professionnels de sant\u00e9 -Pays de Morlaix",
+      "url": "https://partners.doctolib.fr/hopital-public/morlaix/centre-de-vaccination-covid-ville-de-morlaix",
+      "location": {
+        "longitude": -3.8286477,
+        "latitude": 48.5691766,
+        "city": "Morlaix"
+      },
+      "metadata": {
+        "address": "17 Rue de Kersaint Gilly, 29600 Morlaix",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244376[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244376"
+    },
+    {
+      "departement": "29",
+      "nom": "Centre de vaccination HIA Brest",
+      "url": "https://partners.doctolib.fr/hopital-public/brest/centre-de-vaccination-hia-brest",
+      "location": {
+        "longitude": -4.4926143,
+        "latitude": 48.3916023,
+        "city": "Brest"
+      },
+      "metadata": {
+        "address": "29240 Rue Colonel Fonferrier, 29200 Brest",
+        "phone_number": "+33672783151",
+        "business_hours": {
+          "lundi": "10:00-12:00, 14:00-16:00",
+          "mardi": "10:00-12:00, 14:00-16:00",
+          "mercredi": "10:00-12:00, 14:00-16:00",
+          "jeudi": "10:00-12:00, 14:00-16:00",
+          "vendredi": "10:00-12:00, 14:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263792[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263792"
+    },
+    {
+      "departement": "29",
+      "nom": "Centre de vaccination Covid-19 de Concarneau",
+      "url": "https://partners.doctolib.fr/centre-de-sante/melgven/centre-de-vaccination-covid-19-de-concarneau",
+      "location": {
+        "longitude": -3.8391359,
+        "latitude": 47.9076203,
+        "city": "Melgven"
+      },
+      "metadata": {
+        "address": "Rue Per Jakez Helias, 29140 Melgven",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "08:00-12:00, 14:00-18:00",
+          "mercredi": "08:00-12:00, 14:00-18:00",
+          "jeudi": "08:00-12:00, 14:00-18:00",
+          "vendredi": "08:00-12:00, 14:00-18:00",
+          "samedi": "08:00-12:00, 14:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244025[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244025"
+    },
+    {
+      "departement": "29",
+      "nom": "Centre de vaccination Covid-19 - Complexe sportif de Quimperl\u00e9 (r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/quimperle/centre-de-vaccination-covid-19-complexe-sportif-de-quimperle-reserve-aux-professionnels-de-sante",
+      "location": {
+        "longitude": -3.5606725,
+        "latitude": 47.8664353,
+        "city": "Quimperl\u00e9"
+      },
+      "metadata": {
+        "address": "Rue de Kerjouanneau, 29300 Quimperl\u00e9",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "250700[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d250700"
+    },
+    {
+      "departement": "29",
+      "nom": "CHRU de Brest - Vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/brest/chru-de-brest-vaccination-covid-19",
+      "location": {
+        "longitude": -4.5317671,
+        "latitude": 48.3986475,
+        "city": "Brest"
+      },
+      "metadata": {
+        "address": "85 Rue Pierre Maximin Audemar, 29200 Brest",
+        "phone_number": "+33298145143",
+        "business_hours": {
+          "lundi": "08:45-18:45",
+          "mardi": "08:45-18:45",
+          "mercredi": "08:45-18:45",
+          "jeudi": "08:45-18:45",
+          "vendredi": "08:45-18:45",
+          "samedi": "08:45-18:45",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240799[162917]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240799"
+    },
+    {
+      "departement": "29",
+      "nom": "CHIC Site QUIMPER h\u00f4pital La\u00ebnnec",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/cornouaille/ch-cornouaille-vaccination-covid",
+      "location": {
+        "longitude": -4.09496,
+        "latitude": 47.9878,
+        "city": "Quimper"
+      },
+      "metadata": {
+        "address": "14 Avenue Yves Thepot, 29000 Quimper",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "10:00-17:00",
+          "mardi": "10:00-17:00",
+          "mercredi": "10:00-17:00",
+          "jeudi": "10:00-17:00",
+          "vendredi": "10:00-17:00",
+          "samedi": "14:00-17:00",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241737[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "261"
+    },
+    {
+      "departement": "29",
+      "nom": "LESNEVEN - L'atelier",
+      "url": "https://www.maiia.com/centre-de-vaccination/29800-landerneau/centre-de-vaccination---landerneau---lesneven",
+      "location": {
+        "longitude": -4.32309,
+        "latitude": 48.5701,
+        "city": "Lesneven"
+      },
+      "metadata": {
+        "address": " Rue Jeanne d'Arc, 29260 Lesneven",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "8h30-12h30 / 13h30-17h00",
+          "mercredi": "8h30-12h30 / 13h30-17h00",
+          "jeudi": "8h30-12h30 / 13h30-17h00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1275"
+    },
+    {
+      "departement": "29",
+      "nom": "DOUARNENEZ - Centre Gradlon",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/douarnenez-29100/gradlon/centre-de-vaccination-de-gradlon",
+      "location": {
+        "longitude": -4.3291,
+        "latitude": 48.0779,
+        "city": "Douarnenez"
+      },
+      "metadata": {
+        "address": " Impasse Jean Qu\u00e9r\u00e9, 29100 Douarnenez",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "8h-18h",
+          "mercredi": "8h-18h",
+          "jeudi": "8h-18h",
+          "vendredi": "8h-18h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "927"
+    },
+    {
+      "departement": "29",
+      "nom": "BREST Arena",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/brest/centre-de-vaccination-covid-19-brest-arena",
+      "location": {
+        "longitude": -4.51983,
+        "latitude": 48.3872,
+        "city": "Brest"
+      },
+      "metadata": {
+        "address": "140 Boulevard de Plymouth, 29200 Brest",
+        "business_hours": {
+          "lundi": "9h-13 / 13h30-17h30",
+          "mardi": "9h-13 / 13h30-17h30",
+          "mercredi": "9h-13 / 13h30-17h30",
+          "jeudi": "9h-13 / 13h30-17h30",
+          "vendredi": "9h-13 / 13h30-17h30",
+          "samedi": "9h-13 / 13h30-17h30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257554[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1009"
+    },
+    {
+      "departement": "29",
+      "nom": "CARHAIX - GLEN MOR",
+      "url": "https://partners.doctolib.fr/centre-de-sante/carhaix-plouguer/centre-de-vaccination-covid-19-carhaix-espace-glenmor",
+      "location": {
+        "longitude": -3.56115,
+        "latitude": 48.273,
+        "city": "Carhaix-Plouguer"
+      },
+      "metadata": {
+        "address": " Rue Jean Monnet, 29270 Carhaix-Plouguer",
+        "business_hours": {
+          "lundi": "9h30-13h puis 13h30-17h30",
+          "mardi": "9h30-13h puis 13h30-17h30",
+          "mercredi": "9h30-13h puis 13h30-17h30",
+          "jeudi": "9h30-13h puis 13h30-17h30",
+          "vendredi": "9h30-13h puis 13h30-17h30",
+          "samedi": "9h30-13h puis 13h30-17h30",
+          "dimanche": "9h30-13h puis 13h30-17h30"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258805[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1997"
+    },
+    {
+      "departement": "29",
+      "nom": "GHBS site QUIMPERLE H\u00f4pital de Villeneuve (r\u00e9serv\u00e9 aux professionnels des secteurs de la sant\u00e9 et du m\u00e9dico-social)",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?cabinet=16579&specialty=144",
+      "location": {
+        "longitude": -3.55622,
+        "latitude": 47.8698,
+        "city": "Quimperl\u00e9"
+      },
+      "metadata": {
+        "address": "20 bis Avenue G\u00e9n\u00e9ral Leclerc, 29300 Quimperl\u00e9",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "8h-20h",
+          "vendredi": "8h-20h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "739"
+    },
+    {
+      "departement": "29",
+      "nom": "ST RENAN - Centre culturel",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/st-renan-29290/saint-renan/centre-de-vaccination-de-saint-renan",
+      "location": {
+        "longitude": -4.6209,
+        "latitude": 48.434,
+        "city": "Saint-Renan"
+      },
+      "metadata": {
+        "address": "1 Place Leon Cheminant, 29290 Saint-Renan",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "918"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-13T08:46:53.619961+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "87",
+      "nom": "Centre Municipal Vaccination COVID19 - Limoges",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limoges/centre-municipal-vaccination-covid19-limoges",
+      "location": {
+        "longitude": 1.2891542,
+        "latitude": 45.8782298,
+        "city": "Limoges"
+      },
+      "metadata": {
+        "address": "76 Rue des Sagnes, 87280 Limoges",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243154[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243154"
+    },
+    {
+      "departement": "87",
+      "nom": "Centre vaccination AMBAZAC",
+      "url": "https://www.doctolib.fr/medecin-generaliste/ambazac/vaccination-centre",
+      "location": {
+        "longitude": 1.39785,
+        "latitude": 45.9588,
+        "city": "Ambazac"
+      },
+      "metadata": {
+        "address": "1 Rue Anna Beillot, 87240 Ambazac",
+        "phone_number": "+33970511968",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "09:00-13:00",
+          "jeudi": "09:00-13:00 / 14:00-18:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "257354[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2121"
+    }
+  ]
+}

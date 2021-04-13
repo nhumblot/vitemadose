@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-13T08:46:53.563310+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "27",
+      "nom": "Pharmacie De La Couture",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-couture-bernay",
+      "location": {
+        "longitude": 0.5997577,
+        "latitude": 49.0854874,
+        "city": "bernay"
+      },
+      "metadata": {
+        "address": "avenue du 8 mai 1945, 27300 Bernay",
+        "phone_number": "+33232458536",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1fa5e8e0"
+    },
+    {
+      "departement": "27",
+      "nom": "Pharmacie Ferrand-Gaillard",
+      "url": "https://mapharma.net/27120",
+      "location": null,
+      "metadata": {
+        "address": "18 Rue Isambard 27120 PACY SUR EURE",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "27120-0"
+    },
+    {
+      "departement": "27",
+      "nom": "Pharmacie du Pot d'\u00c9tain",
+      "url": "https://partners.doctolib.fr/pharmacie/pont-audemer/pharmacie-du-pot-d-etain",
+      "location": {
+        "longitude": 0.5133692,
+        "latitude": 49.3531306,
+        "city": "Pont-Audemer"
+      },
+      "metadata": {
+        "address": "11 Place du Pot d'\u00c9tain, 27500 Pont-Audemer",
+        "phone_number": "+33232410420",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-19:30",
+          "mardi": "08:30-12:30, 14:00-19:30",
+          "mercredi": "08:30-12:30, 14:00-19:30",
+          "jeudi": "08:30-12:30, 14:00-19:30",
+          "vendredi": "08:30-12:30, 14:00-19:30",
+          "samedi": "08:30-12:30, 14:00-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "266487[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d266487"
+    },
+    {
+      "departement": "27",
+      "nom": "GHT Eure-Seine & Pays d\u2019Ouche - Centres de vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27",
+      "location": {
+        "longitude": 1.2764681,
+        "latitude": 48.9041681,
+        "city": "Saint-Andr\u00e9-de-l'Eure"
+      },
+      "metadata": {
+        "address": "6 Rue de Dreux, 27220 Saint-Andr\u00e9-de-l'Eure",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[162965]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240902"
+    },
+    {
+      "departement": "27",
+      "nom": "CH Pont Audemer",
+      "url": "https://partners.doctolib.fr/hopital-public/pont-audemer/centre-de-vaccination-covid-centre-hospitalier-ch-de-la-risle",
+      "location": {
+        "longitude": 0.514494,
+        "latitude": 49.3467,
+        "city": "Pont-Audemer"
+      },
+      "metadata": {
+        "address": "64 64 route de lisieux, 27500 Pont-Audemer",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242833[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "168"
+    },
+    {
+      "departement": "27",
+      "nom": "Grand centre \u00e9tat d'Evreux",
+      "url": "https://partners.doctolib.fr/maison-de-sante/evreux/centre-de-vaccination-evreux",
+      "location": {
+        "longitude": 1.13601,
+        "latitude": 49.0239,
+        "city": "\u00c9vreux"
+      },
+      "metadata": {
+        "address": " Avenue du Mar\u00e9chal Foch - Halle des expositions, 27000 \u00c9vreux",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242803[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2407"
+    }
+  ]
+}
